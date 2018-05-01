@@ -1,14 +1,8 @@
-
-Line-1: # of berths, # of ships and the cylinder length.
-
-Lines 2-5: "0" for Si, the start of planning horizon of the DBAP (see my paper in Trans Res B, 2001). The BTPS uses no Si, but its program code is based on the one for the DBAP. So, four "0"s are set here.
-
-The next 50 lines: Aj
-
-The next 50 lines: Cj
-
-The next 50 lines: Gj
-
-Line-159: # of mother-feeder connections
-
-The next 10 lines: mother-feeder ship #s
+arrival time
+processing time
+vessel length (in number of berths), 
+N, 
+H, 
+S, 
+g, 
+R
